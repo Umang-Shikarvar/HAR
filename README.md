@@ -1,4 +1,4 @@
-# ES 335 Assignment-1 (Team: ML Boys)
+# ES 335 Assignment-1
 
 ## Team Members
 
